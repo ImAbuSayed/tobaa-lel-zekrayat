@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حياتي في الليل دمعي ينادي
+> قلبي معك في كل مكان وزمان
+> نور القمر يعكس وجهك الهادي
+> أنت روحي وكل ما في الوجدان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
